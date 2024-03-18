@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting mea
 ## 🛠 Skills and Tools
 
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, C,C++,Java
-- **Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn
+- **Visualization Tools:** Tableau, Power BI
 - **Databases:** MySQL, MSSQL
-- **Other Tools:** Excel, Jupyter Notebook, Git, GitHub, Jira, Slack
+- **Other Tools:** Excel, Jupyter Notebook, Git, GitHub, Jira, Slack,Circle CI, Docker,HTML,CSS
 - **Soft Skills:** Analytical Thinking, Problem Solving, Effective Communication
 
 ## 🔍 Projects
@@ -22,23 +22,29 @@ Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting mea
 
 ### Covid Data Analysis and Visualization:
 
-- Analyzed COVID-19 data using SQL queries in MSSQL, exploring death rates, infection rates, and vaccination progress by region and country.
-- Created visualizations in Tableau to effectively communicate these insights, including global trends, continent-specific breakdowns, and vaccination coverage percentages. Utilized features like window functions, aggregations, and temporary tables to manipulate and analyze the data for comprehensive understanding.
-- This project demonstrates my proficiency in SQL data manipulation, data visualization with Tableau, and my ability to translate complex data trends into clear visuals.
+Analyzed COVID-19 data using SQL queries in MSSQL, exploring death rates, infection rates, and vaccination progress by region and country.
+Created visualizations in Tableau to effectively communicate these insights, including global trends, continent-specific breakdowns, and vaccination coverage percentages. Utilized features like window functions, aggregations, and temporary tables to manipulate and analyze the data for comprehensive understanding.
+This project demonstrates my proficiency in SQL data manipulation, data visualization with Tableau, and my ability to translate complex data trends into clear visuals.
 
   
 ### Data Cleaning using SQL:
 
-- Performed comprehensive data cleaning on Nashville housing data using SQL queries, including standardizing date formats, populating missing property addresses, and splitting address fields into individual columns for improved analysis.
-- Additionally, transformed categorical variables by replacing 'Y' and 'N' with 'Yes' and 'No', and removed duplicate records to ensure data integrity. Resulted in the creation of a refined dataset conducive to accurate analysis and insights for stakeholders in the real estate sector.
+Performed comprehensive data cleaning on Nashville housing data using SQL queries, including standardizing date formats, populating missing property addresses, and splitting address fields into individual columns for improved analysis.
+Additionally, transformed categorical variables by replacing 'Y' and 'N' with 'Yes' and 'No', and removed duplicate records to ensure data integrity. Resulted in the creation of a refined dataset conducive to accurate analysis and insights for stakeholders in the real estate sector.
   
 
 ### Customer Segmentation and Clustering:
 
 
-- This project delves into understanding customer behavior and characteristics through segmentation and clustering techniques using mall customer data.
-- Through thorough data exploration, including univariate and bivariate analyses, we uncover patterns and relationships within the dataset. Utilizing clustering analysis, we identify distinct customer segments based on various attributes such as age, gender, annual income, and spending score.
-- These insights enable the development of targeted marketing strategies and improvements in customer service, ultimately enhancing customer satisfaction and loyalty within the mall environment.
+This project delves into understanding customer behavior and characteristics through segmentation and clustering techniques using mall customer data.
+Through thorough data exploration, including univariate and bivariate analyses, we uncover patterns and relationships within the dataset. Utilizing clustering analysis, we identify distinct customer segments based on various attributes such as age, gender, annual income, and spending score.
+These insights enable the development of targeted marketing strategies and improvements in customer service, ultimately enhancing customer satisfaction and loyalty within the mall environment.
+
+- ### Web Scraping using Python:
+
+Developed a Python-based web scraping tool using BeautifulSoup to extract and aggregate 750 horror movie reviews from IMDb, successfully capturing detailed user feedback and ratings by leveraging movie IDs for precise data targeting.  
+Engineered an efficient data pipeline to parse, clean, and structure the scraped data, resulting in a well-organized CSV file that facilitates easy analysis and insights into horror movie trends and audience reception.
+Implemented advanced data handling techniques to manage inconsistencies and non-standard HTML structures across different IMDb pages, showcasing problem-solving skills and attention to detail in data extraction processes.
 
 
 ## 🤝 Connect with Me
