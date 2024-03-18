@@ -17,12 +17,11 @@ Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting mea
 - **Other Tools:** Excel, Jupyter Notebook, Git, GitHub, Jira, Slack
 - **Soft Skills:** Analytical Thinking, Problem Solving, Effective Communication
 
-## 🔍 Current Projects
+## 🔍 Projects
 
-I'm currently working on several projects involving data cleaning, analysis, and visualization. Here's a sneak peek:
 
 ### Covid Data Analysis and Visualization:
--
+
 - Analyzed COVID-19 data using SQL queries in MSSQL, exploring death rates, infection rates, and vaccination progress by region and country.
 - Created visualizations in Tableau to effectively communicate these insights, including global trends, continent-specific breakdowns, and vaccination coverage percentages. Utilized features like window functions, aggregations, and temporary tables to manipulate and analyze the data for comprehensive understanding.
 - This project demonstrates my proficiency in SQL data manipulation, data visualization with Tableau, and my ability to translate complex data trends into clear visuals.
@@ -30,10 +29,9 @@ I'm currently working on several projects involving data cleaning, analysis, and
   
 ### Data Cleaning using SQL:
 
-
 - Performed comprehensive data cleaning on Nashville housing data using SQL queries, including standardizing date formats, populating missing property addresses, and splitting address fields into individual columns for improved analysis.
 - Additionally, transformed categorical variables by replacing 'Y' and 'N' with 'Yes' and 'No', and removed duplicate records to ensure data integrity. Resulted in the creation of a refined dataset conducive to accurate analysis and insights for stakeholders in the real estate sector.
-- 
+  
 
 ### Customer Segmentation and Clustering:
 
