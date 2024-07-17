@@ -6,16 +6,22 @@ Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting mea
 
 - 🌱 I’m currently diving deeper into **Advanced Data Analytics**.
 - 🔭 Working on various data analysis projects, ranging from **predictive modeling** to **data visualization**.
-- 💬 Ask me about **Python, SQL, Tableau, Excel, PowerBI**.
-- 📫 How to reach me: **deepthiannem29@gmail.com**.
+- 💬 Ask me about **Data Analytics**.
+- 📫 How to reach me: **deepthi.a1147@gmail.com**.
 
 ## 🛠 Skills and Tools
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, C,C++,Java
-- **Visualization Tools:** Tableau, Power BI
-- **Databases:** MySQL, MSSQL
-- **Other Tools:** Excel, Jupyter Notebook, Git, GitHub, Jira, Slack,Circle CI, Docker,HTML,CSS
-- **Soft Skills:** Analytical Thinking, Problem Solving, Effective Communication
+- **Data Visualization:** Tableau, Power BI, Looker, Excel, Google Charts, Alteryx, QlikView
+- **Database:** MySQL, Oracle SQL, MSSQL, Google Big Query, AWS Databases, DB2, Snowflake
+- **Programming Language:** Python, R, SQL, C++
+- **Cloud Platforms:** GCP, AWS
+- **Statistical Analysis:** Regressions, A/B Testing, Clustering, Tine-series Analysis, Bayesian Statistics, Survival Analysis, Correlations
+- **Version Control:** Git, GitHub
+- **Project Management and Collaboration:** Agile, SDLC, JIRA, ServiceNow, MS Office Tools, Google Workspace
+- **Machine Learning Algorithms:** Decision Trees, Random Forests, Linear Regression, KNN algorithm, Naive Bayes, Logistic Regression, Support- Vector Machine, Feature selection
+- **Advanced Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy
+- **Soft Skills:** Presentation, Planning, Organized, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking
+
 
 ## 🔍 Projects
 
