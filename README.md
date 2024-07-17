@@ -49,7 +49,7 @@ Implemented advanced data handling techniques to manage inconsistencies and non-
 
 ## 🤝 Connect with Me
 
-- **LinkedIn:**  https://www.linkedin.com/in/annem-deepthi/
+- **LinkedIn:**  http://www.linkedin.com/in/deepthi-a-249a04318
 
 Thank you for stopping by my profile! Feel free to explore my repositories and reach out if you have any questions or want to collaborate on a project.
 
