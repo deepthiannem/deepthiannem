@@ -1,21 +1,21 @@
-# Hello, I'm Deepthi Annem 👋
+# Hello, I'm Deepthi👋
 
-Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting meaningful insights from complex datasets and translating them into actionable strategies. With a foundation in Computer Science, I blend analytical rigor with creative problem solving to unravel the stories hidden within data.
+Welcome to my GitHub profile! I'm a Data Analyst with a knack for extracting meaningful insights from complex datasets and translating them into actionable strategies. With a foundation in Computer Science, I blend analytical rigor with creative problem-solving to unravel the stories hidden within data.
 
 ## 📊 About Me
 
 - 🌱 I’m currently diving deeper into **Advanced Data Analytics**.
 - 🔭 Working on various data analysis projects, ranging from **predictive modeling** to **data visualization**.
 - 💬 Ask me about **Data Analytics**.
-- 📫 How to reach me: **deepthi.a1147@gmail.com**.
+- 📫 How to reach me: **deepthi.a.1029@outlook.com**.
 
 ## 🛠 Skills and Tools
 
-- **Data Visualization:** Tableau, Power BI, Looker, Excel, Google Charts, Alteryx, QlikView
+- **Data Visualization:** Tableau, Power BI, Looker, Excel, Google Charts, Alteryx
 - **Database:** MySQL, Oracle SQL, MSSQL, Google Big Query, AWS Databases, DB2, Snowflake
-- **Programming Language:** Python, R, SQL, C++
+- **Programming Language:** Python, R, SQL,
 - **Cloud Platforms:** GCP, AWS
-- **Statistical Analysis:** Regressions, A/B Testing, Clustering, Tine-series Analysis, Bayesian Statistics, Survival Analysis, Correlations
+- **Statistical Analysis:** Regressions, A/B Testing, Clustering, Time-series Analysis, Bayesian Statistics, Survival Analysis, Correlations
 - **Version Control:** Git, GitHub
 - **Project Management and Collaboration:** Agile, SDLC, JIRA, ServiceNow, MS Office Tools, Google Workspace
 - **Machine Learning Algorithms:** Decision Trees, Random Forests, Linear Regression, KNN algorithm, Naive Bayes, Logistic Regression, Support- Vector Machine, Feature selection
@@ -52,10 +52,6 @@ Developed a Python-based web scraping tool using BeautifulSoup to extract and ag
 Engineered an efficient data pipeline to parse, clean, and structure the scraped data, resulting in a well-organized CSV file that facilitates easy analysis and insights into horror movie trends and audience reception.
 Implemented advanced data handling techniques to manage inconsistencies and non-standard HTML structures across different IMDb pages, showcasing problem-solving skills and attention to detail in data extraction processes.
 
-
-## 🤝 Connect with Me
-
-- **LinkedIn:**  http://www.linkedin.com/in/deepthi-a-249a04318
 
 Thank you for stopping by my profile! Feel free to explore my repositories and reach out if you have any questions or want to collaborate on a project.
 
